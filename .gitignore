@@ -1,0 +1,5 @@
+lms.db
+__pycache__/
+.venv/
+uploads/*
+!uploads/.gitkeep
